@@ -3,7 +3,7 @@
 ## 🚀 Projets vitrine
 
 ### Debian VM Hardening Script
-Script Bash pour automatiser le durcissement d’une VM Debian/Ubuntu (baseline, SSH, firewall, audit/logging). [file:attached_file:1]  
+Script Bash pour automatiser le durcissement d’une VM Debian/Ubuntu (baseline, SSH, firewall, audit/logging).
 Lien : https://github.com/Gabriel-P-IT/Hardening_Script_Debian
 
 ### HTB Writeup (retired)
