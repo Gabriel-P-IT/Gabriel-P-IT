@@ -4,11 +4,11 @@
 
 ### Debian VM Hardening Script
 Script Bash pour automatiser le durcissement d’une VM Debian/Ubuntu (baseline, SSH, firewall, audit/logging).
-Lien : https://github.com/Gabriel-P-IT/Hardening_Script_Debian
+https://github.com/Gabriel-P-IT/Hardening_Script_Debian
 
 ### HTB Writeup (retired)
 Writeup technique (recon → initial access → privesc → notes défense).  
-Lien : https://github.com/Gabriel-P-IT/Writeup-White-Rabbit/blob/main/HTB_WhiteRabbit_Writeup.md
+https://github.com/Gabriel-P-IT/Writeup-White-Rabbit/blob/main/HTB_WhiteRabbit_Writeup.md
 
 ## 🎓 Certifications
 - eJPTv2
