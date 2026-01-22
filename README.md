@@ -10,9 +10,13 @@ https://github.com/Gabriel-P-IT/Hardening_Script_Debian
 Script qui exécute une reconnaissance complète d'une cible en une seule commande.  <br>
 https://github.com/Gabriel-P-IT/Basic_BugBounty_Automator
 
-### HTB Writeup (retired)
+### HTB White-Rabbit Writeup (retired)
 Writeup technique (recon → initial access → privesc → notes défense).  <br>
 https://github.com/Gabriel-P-IT/Writeup-White-Rabbit/blob/main/HTB_WhiteRabbit_Writeup.md
+
+### HTB Writeups (retired)
+Writeups techniques de quelques machines HTB  <br>
+https://github.com/Gabriel-P-IT/Writeups-HTB_Labs
 
 ## 🎓 Certifications
 - eJPTv2
