@@ -18,6 +18,10 @@ https://github.com/Gabriel-P-IT/Writeup-White-Rabbit/blob/main/HTB_WhiteRabbit_W
 Writeups techniques de quelques machines HTB  <br>
 https://github.com/Gabriel-P-IT/Writeups-HTB_Labs
 
+### CTF Cyber
+Un CTF à destination d'une journée portes-ouvertes (pour introduire aux nombreuses variantes de la cybersécuritée) <br> 
+https://github.com/Gabriel-P-IT/CTF-Cyber
+
 ## 🎓 Certifications
 - eJPTv2
 
