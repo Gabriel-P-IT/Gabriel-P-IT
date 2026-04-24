@@ -2,13 +2,13 @@
 
 ## 🚀 Projets vitrine
 
-### Debian VM Hardening Script
-Script Bash pour automatiser le durcissement d’une VM Debian/Ubuntu (baseline, SSH, firewall, audit/logging).<br>
-https://github.com/Gabriel-P-IT/Hardening_Script_Debian
-
 ### Reconnaissance Automatisée Bug Bounty
 Script qui exécute une reconnaissance complète d'une cible en une seule commande.  <br>
 https://github.com/Gabriel-P-IT/Basic_BugBounty_Automator
+
+### Guide For Somes Attacks
+Un repo ou je dépose quelques guides et tutoriels sur différentes attaques et techniques. <br>
+https://github.com/Gabriel-P-IT/guide_for_some_attacks/blob/main/README.md
 
 ### HTB White-Rabbit Writeup (retired)
 Writeup technique (recon → initial access → privesc → notes défense).  <br>
@@ -17,6 +17,10 @@ https://github.com/Gabriel-P-IT/Writeup-White-Rabbit/blob/main/HTB_WhiteRabbit_W
 ### HTB Writeups (retired)
 Writeups techniques de quelques machines HTB  <br>
 https://github.com/Gabriel-P-IT/Writeups-HTB_Labs
+
+### Debian VM Hardening Script
+Script Bash pour automatiser le durcissement d’une VM Debian/Ubuntu (baseline, SSH, firewall, audit/logging).<br>
+https://github.com/Gabriel-P-IT/Hardening_Script_Debian
 
 ### CTF Cyber
 Un CTF à destination d'une journée portes-ouvertes (pour introduire aux nombreuses variantes de la cybersécu) <br> 
