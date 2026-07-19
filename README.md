@@ -22,7 +22,8 @@ https://github.com/Gabriel-P-IT/Writeups-HTB_Labs
 Un CTF à destination d'une journée portes-ouvertes (pour introduire aux nombreuses variantes de la cybersécu) <br> 
 https://github.com/Gabriel-P-IT/CTF-Cyber
 
-## 🎓 Certifications
+## 🎓 Certifications 
+_ eCPPTv3
 - eJPTv2
 
 ## 🔗 Liens PLateformes
