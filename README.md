@@ -1,31 +1,76 @@
-# Gabriel-P-IT
+# Gabriel PETIT
+
+<p align="center">
+  🎯 <strong>Alternant Audit & Pentest</strong> - Canal+ &nbsp;|&nbsp; 🎓 <strong>Étudiant Master Cybersécurité</strong> - Oteria Cyber School
+</p>
 
 ## 🚀 Projets vitrine
 
-### AS-Rep automatique
-Outil Python d'audit Active Directory orienté AS-REP Roasting, enumération et cracking des cibles  <br>
-[https://github.com/Gabriel-P-IT/AS-Rep-Roaster](https://github.com/Gabriel-P-IT/AS-Rep-Roaster)
+### 🛠️ Tools & Projets
 
-### Guide For Somes Attacks
-Un repo ou je dépose quelques guides et tutoriels sur différentes attaques et techniques. <br>
-[https://github.com/Gabriel-P-IT/guide_for_some_attacks/](https://github.com/Gabriel-P-IT/guide_for_some_attacks)
+#### [AS-Rep automatique](https://github.com/Gabriel-P-IT/AS-Rep-Roaster)
+Outil Python d'audit Active Directory orienté AS-REP Roasting, énumération et cracking des cibles.
 
-### HTB White-Rabbit Writeup (retired)
-Writeup technique (recon → initial access → privesc → notes défense).  <br>
-https://github.com/Gabriel-P-IT/Writeup-White-Rabbit/blob/main/HTB_WhiteRabbit_Writeup.md
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Last Commit](https://img.shields.io/github/last-commit/Gabriel-P-IT/AS-Rep-Roaster?style=flat-square&color=informational)
 
-### HTB Writeups (retired)
-Writeups techniques de quelques machines HTB  <br>
-https://github.com/Gabriel-P-IT/Writeups-HTB_Labs
+***
 
-### CTF Cyber
-Un CTF à destination d'une journée portes-ouvertes (pour introduire aux nombreuses variantes de la cybersécu) <br> 
-https://github.com/Gabriel-P-IT/CTF-Cyber
+####  [CTF Découverte de la Cyber](https://github.com/Gabriel-P-IT/CTF-Cyber)
+CTF conçu pour une journée portes-ouvertes, pensé pour introduire les nombreuses variantes de la cybersécurité.
+
+![Beginner Friendly](https://img.shields.io/badge/Niveau-D%C3%A9couverte-brightgreen?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Gabriel-P-IT/CTF-Cyber?style=flat-square&color=informational)
+
+***
+
+### 📚 Notes
+
+#### [Guide For Some Attacks](https://github.com/Gabriel-P-IT/guide_for_some_attacks)
+Un repo de guides sur différentes attaques et techniques offensives.
+
+![Markdown](https://img.shields.io/badge/Format-Markdown-blue?style=flat-square&logo=markdown&logoColor=white)
+![Last Commit](https://img.shields.io/github/last-commit/Gabriel-P-IT/guide_for_some_attacks?style=flat-square&color=informational)
+
+***
+
+### 📝 Writeups
+
+#### [HTB White-Rabbit Writeup](https://github.com/Gabriel-P-IT/Writeup-White-Rabbit/blob/main/HTB_WhiteRabbit_Writeup.md) 🐇
+Writeup technique complet : recon → initial access → privesc → notes défense.
+
+![Status](https://img.shields.io/badge/Status-Retired-lightgrey?style=flat-square)
+![HTB](https://img.shields.io/badge/Hack%20The%20Box-Machine-9FEF00?style=flat-square&logo=hackthebox&logoColor=white)
+
+***
+
+#### [HTB Writeups](https://github.com/Gabriel-P-IT/Writeups-HTB_Labs)
+Writeups techniques de plusieurs machines Hack The Box (retired).
+
+![Status](https://img.shields.io/badge/Status-Retired-lightgrey?style=flat-square)
+![HTB](https://img.shields.io/badge/Hack%20The%20Box-Multi--machines-9FEF00?style=flat-square&logo=hackthebox&logoColor=white)
+
+***
 
 ## 🎓 Certifications 
-- eCPPTv3
-- eJPTv2
+<p float="left">
+  <a href="https://certs.ine.com/f88b1a13-9edd-49e8-b99c-3c3bbe30e3cf">
+    <img src="https://img.shields.io/badge/INE-eCPPTv3-1E90FF?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://certs.ine.com/fe59e3dc-6e4a-475f-aa4a-7027164a82e0#acc.1Y9gVMTL">
+    <img src="https://img.shields.io/badge/INE-eJPTv2-1E90FF?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+***
 
 ## 🔗 Liens PLateformes
-- Hack The Box : https://app.hackthebox.com/users/626810
-- Root-Me : https://www.root-me.org/YSA-591622
+
+<p float="left">
+  <a href="https://app.hackthebox.com/users/626810">
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-Hacker%20%7C%2073%20machines-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</a>
+  <a href="https://www.root-me.org/YSA-591622">
+    <img src="https://img.shields.io/badge/Root--Me-7410%20points%20%7C%20300%20challenges-FF6600?style=for-the-badge&logo=rootme&logoColor=white" />
+  </a>
+</p>
