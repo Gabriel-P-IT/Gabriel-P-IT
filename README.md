@@ -23,7 +23,7 @@ Un CTF à destination d'une journée portes-ouvertes (pour introduire aux nombre
 https://github.com/Gabriel-P-IT/CTF-Cyber
 
 ## 🎓 Certifications 
-_ eCPPTv3
+- eCPPTv3
 - eJPTv2
 
 ## 🔗 Liens PLateformes
