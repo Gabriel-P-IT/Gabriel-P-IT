@@ -1,14 +1,14 @@
-# Gabriel-P-IT — Cybersecurity
+# Gabriel-P-IT
 
 ## 🚀 Projets vitrine
 
-### Reconnaissance Automatisée Bug Bounty
-Script qui exécute une reconnaissance complète d'une cible en une seule commande.  <br>
-https://github.com/Gabriel-P-IT/Basic_BugBounty_Automator
+### AS-Rep automatique
+Outil Python d'audit Active Directory orienté AS-REP Roasting, enumération et cracking des cibles  <br>
+[https://github.com/Gabriel-P-IT/AS-Rep-Roaster](https://github.com/Gabriel-P-IT/AS-Rep-Roaster)
 
 ### Guide For Somes Attacks
 Un repo ou je dépose quelques guides et tutoriels sur différentes attaques et techniques. <br>
-https://github.com/Gabriel-P-IT/guide_for_some_attacks/blob/main/README.md
+[https://github.com/Gabriel-P-IT/guide_for_some_attacks/](https://github.com/Gabriel-P-IT/guide_for_some_attacks)
 
 ### HTB White-Rabbit Writeup (retired)
 Writeup technique (recon → initial access → privesc → notes défense).  <br>
