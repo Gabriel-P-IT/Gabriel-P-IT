@@ -14,13 +14,19 @@ Outil Python d'audit Active Directory orienté AS-REP Roasting, énumération et
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Last Commit](https://img.shields.io/github/last-commit/Gabriel-P-IT/AS-Rep-Roaster?style=flat-square&color=informational)
 
-***
-
 ####  [CTF Découverte de la Cyber](https://github.com/Gabriel-P-IT/CTF-Cyber)
 CTF conçu pour une journée portes-ouvertes, pensé pour introduire les nombreuses variantes de la cybersécurité.
 
 ![Beginner Friendly](https://img.shields.io/badge/Niveau-D%C3%A9couverte-brightgreen?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/Gabriel-P-IT/CTF-Cyber?style=flat-square&color=informational)
+
+
+#### [Création d'un Honeypot & Threat Hunting](https://www.linkedin.com/pulse/dans-les-coulisses-de-notre-honeypot-d%C3%A9tection-et-analyse-pierson-gbwvf/)
+Déploiement d'un honeypot pour capturer et analyser des attaques réelles, avec démarche de threat hunting sur les logs collectés.
+
+![Blue Team](https://img.shields.io/badge/Approche-Blue%20Team-blueviolet?style=flat-square)
+![Threat Hunting](https://img.shields.io/badge/Focus-Threat%20Hunting-orange?style=flat-square)
+![LinkedIn](https://img.shields.io/badge/Article-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 
 ***
 
