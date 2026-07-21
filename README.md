@@ -1,7 +1,7 @@
 # Gabriel PETIT
 
 <p align="center">
-  🎯 <strong>Alternant Audit & Pentest</strong> - Canal+ &nbsp;|&nbsp; 🎓 <strong>Étudiant Master Cybersécurité</strong> - Oteria Cyber School
+  💼 <strong>Alternant Audit & Pentest</strong> - Canal+ &nbsp;|&nbsp; 🎓 <strong>Étudiant Master Cybersécurité</strong> - Oteria Cyber School
 </p>
 
 ## 🚀 Projets vitrine
