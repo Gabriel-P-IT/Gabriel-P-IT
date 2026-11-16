@@ -4,6 +4,8 @@
   💼 <strong>Alternant Audit & Pentest</strong> - Canal+ &nbsp;|&nbsp; 🎓 <strong>Étudiant Master Cybersécurité</strong> - Oteria Cyber School
 </p>
 
+https://gabriel-p-it.github.io/
+
 ## 🚀 Projets vitrine
 
 ### 🛠️ Tools & Projets
